@@ -15,7 +15,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://natplusultra.github.io/ReMemory/",
+  "homepage": "https://github.com/ermiaswoldetsadik/Clicky-React-",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
