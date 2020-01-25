@@ -1,7 +1,7 @@
 # clicky
 
 
-clicky is a React.js memory game. This application is broken into UI components, manages component state, and responds to user click events.
+clicky is a React game. This application is broken into UI components, manages component state, and responds to user click events.
 
 ### How It Works
 * The object of the game is to click on an image only once, and the images reshuffle after each click in order to test your memory.
